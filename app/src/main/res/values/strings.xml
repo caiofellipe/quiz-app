@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="textBotao">Iniciar Jogo</string>
+    <string name="imagemPrincipal">Imagem Principal</string>
+    <string name="textInstrucao">Seleciona uma das opções acima</string>
+    <string name="textEnviar">Enviar</string>
+    <string name="opcVerdadeiro">Verdadeiro</string>
+    <string name="opcFalso">Falso</string>
+    <string name="textoPergunta">Pergunta:</string>
+    <string name="botaoContinuar">Continuar</string>
+    <string name="botaoFinalizar">Finalizar</string>
+</resources>
